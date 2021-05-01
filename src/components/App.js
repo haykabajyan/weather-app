@@ -56,7 +56,7 @@ class App extends React.Component {
         })
 
         if (this.state.isLoaded==='true') {
-            return <Loader msg={'Loading....'} />
+            return <Loader msg={'Loading.....'} />
         }
 
         console.log(icon);
