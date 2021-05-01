@@ -1,0 +1,10 @@
+3883f69ab25f46dc92cdf2b5d66a1517
+
+https://api.weatherbit.io/v2.0/forecast
+
+        case 'Sun':
+            return <img className="icon" src={Sun} alt={Sun} />
+            break;
+
+
+3883f69ab25f46dc92cdf2b566a1517
